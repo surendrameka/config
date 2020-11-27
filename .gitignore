@@ -1,13 +1,7 @@
-**target/
-.metadata/
-.recommenders/
-!.mvn/wrapper/maven-wrapper.jar
-
-### STS ###
-.apt_generated
-.classpath
+#*
+*#
+.#*
+*~
+.idea
+*.iml
 .factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
